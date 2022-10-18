@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own Bloging Web App.
 - 🌱 I’m currently learning APIs.
