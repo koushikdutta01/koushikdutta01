@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own Blooging Web App.
+- 🔭 I’m currently working on my own Bloging Web App.
 - 🌱 I’m currently learning APIs.
 - 👯 I’m looking to collaborate on Full Stack Development.
 - 🤔 I’m looking for help with Backend Development.
